@@ -1,0 +1,11 @@
+
+{squid:S1450"XRemove the "boltonRep" field and declare it as a local variable in the relevant methods.(ŠïÛúÿÿÿÿ8ü»Çæ¹-
+Osquid:S1068",Remove this unused "starkRep" private field.(øÍùøşÿÿÿÿ8®ØÂæ¹-
+Psquid:S1068"-Remove this unused "boltonRep" private field.(ŠïÛúÿÿÿÿ8®ØÂæ¹-
+vsquid:S1450"XRemove the "starkPrep" field and declare it as a local variable in the relevant methods.(ŸñîÖ8ü»Çæ¹-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¿Å˜Õ8È¡šÜº-
+Ksquid:S1068"-Remove this unused "starkPrep" private field.(ŸñîÖ8®ØÂæ¹-
+zsquid:S1450"WRemove the "starkRep" field and declare it as a local variable in the relevant methods.(øÍùøşÿÿÿÿ8ü»Çæ¹-
+wsquid:S1450"YRemove the "boltonPrep" field and declare it as a local variable in the relevant methods.(§å€Š8ü»Çæ¹-
+Lsquid:S1068".Remove this unused "boltonPrep" private field.(§å€Š8®ØÂæ¹-
+Ksquid:S1068"-Remove this unused "component" private field.(ûÆ·8ËŸÜº-
